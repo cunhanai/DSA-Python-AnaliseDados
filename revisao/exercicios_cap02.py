@@ -46,4 +46,4 @@ print("Exercicio 9:", lista3)
 
 # Exercício 10 - Considere a string abaixo. Imprima na tela apenas os caracteres da posição 1 a 18.
 frase = 'Cientista de Dados é o profissional mais sexy do século XXI'
-print("Exercicio 10:", frase[1:18])
+print("Exercicio 10:", frase[0:18])  # da primeira posicao, mas index 0!
