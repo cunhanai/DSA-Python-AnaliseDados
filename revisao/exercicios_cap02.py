@@ -1,4 +1,4 @@
-"""EXERCICIOS PYTHON BASICO
+"""EXERCICIOS PYTHON BASICO - Cap02
 """
 
 # Exercício 1 - Imprima na tela os números de 1 a 10. Use uma lista para armazenar os números.
