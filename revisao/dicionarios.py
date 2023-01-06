@@ -9,19 +9,19 @@
 
 # Dicionarios sao criados com chaves {} e virgulas separando
 
-# Dicionarios sao mapeamentos, uma colecao de objetos que sao armazenados por uma chave
-# Com os hash Maps do Java
+# Dicionarios sao mapeamentos, uma colecao de objetos que sao armazenados por 
+# uma chave, como os hash Maps do Java
 
 # Consiste de uma chave e em seguida um valor associado
 
 # COMPARANDO LISTAS E DICIONARIOS
 
 # Lista
-estudantes_list = ["Matteo", 24, "Fernanda", 22, "Tamires", 26, "Cristiano", 25]
+estudantes_list = ["Matteo",24,"Fernanda",22,"Tamires",26,"Cristiano",25]
 print(estudantes_list)
 
-# Dicionario
-estudantes_dict = {"Matteo":24, "Fernanda":22, "Tamires":26, "Cristiano":25}  # os nomes das pessoas sao as chaves do mapeamento
+# Dicionario (os nomes das pessoas sao as chaves do mapeamento)
+estudantes_dict = {"Matteo":24, "Fernanda":22, "Tamires":26, "Cristiano":25}  
 print(estudantes_dict)
 
 # As chaves do dicionario podem funcionar como indices
@@ -66,7 +66,7 @@ print(estudantes)
 # DICIONARIO DE LISTAS
 
 # Criando um dicionario de listas
-dict = {"key1":1230, "key2":[22,356,664,233,1], "key3":['leite', 'maca', 'banana']}
+dict = {"key1":1230,"key2":[22,356,664,233,1],"key3":['leite','maca','banana']}
 print(dict)
 
 # Acessando as listas
